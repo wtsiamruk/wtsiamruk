@@ -1,4 +1,4 @@
-### Hi there 👋
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 <!--
 **wtsiamruk/wtsiamruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
